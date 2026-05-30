@@ -11,23 +11,26 @@
 
   <br>
 
-  <img src="https://github.com/user-attachments/assets/1064d1f7-d42e-4523-9ab2-a7b4c112091c" width="160" alt="Power Contributor" />
-  <img src="https://github.com/user-attachments/assets/001ad94a-8b1d-4d14-bd6c-ec192977ea1f" width="160" alt="Rising Star" />
-  <img src="https://github.com/user-attachments/assets/570d1e3c-c446-4442-98a8-d9d07a634d19" width="160" alt="Bounty Master" />
+  <h3>🌟 Top Tier Milestones</h3>
+  <img src="https://github.com/user-attachments/assets/44454339-c69a-4dce-ba1d-b47e9e5b512d" width="160" alt="Power Contributor" />
+  <img src="https://github.com/user-attachments/assets/4dee5ba2-3b38-435c-8b35-874c8889a87d" width="160" alt="Rising Star" />
+  <img src="https://github.com/user-attachments/assets/552c2823-b222-4473-a69c-ec283589d75a" width="160" alt="Bounty Master" />
 
   <br><br>
 
-  <img src="https://github.com/user-attachments/assets/1b8a34d5-20b5-422d-abcb-939f67fcfd69" width="110" alt="Building Momentum" />
-  <img src="https://github.com/user-attachments/assets/4202f7b0-04fe-4105-968b-e4651775bd77" width="110" alt="Point Scorer" />
-  <img src="https://github.com/user-attachments/assets/20eb4e72-a33c-4d80-ad65-4be7b7c75038" width="110" alt="Bounty Hunter" />
-  <img src="https://github.com/user-attachments/assets/28d2cfe0-8c62-43e9-bc1b-33277db007be" width="110" alt="First Steps" />
+  <h3>🔥 The Grind</h3>
+  <img src="https://github.com/user-attachments/assets/38b557b0-c9e9-4e9a-a8f9-53e70ad9bb3a" width="110" alt="Building Momentum" />
+  <img src="https://github.com/user-attachments/assets/8022d896-0096-4a25-8898-c19f0e1057e5" width="110" alt="Point Scorer" />
+  <img src="https://github.com/user-attachments/assets/2c7ea0c1-c3f4-4461-ae29-723a767daf18" width="110" alt="Bounty Hunter" />
+  <img src="https://github.com/user-attachments/assets/c693bb5c-3d38-46ac-b9c0-eb74b63f6564" width="110" alt="First Steps" />
 
   <br><br>
 
-  <img src="https://github.com/user-attachments/assets/79eed511-da72-489d-8570-f18c923a21d1" width="80" alt="Role Contributor" />
-  <img src="https://github.com/user-attachments/assets/d097209b-ecc5-4256-940b-87c9170f22fa" width="80" alt="Getting Started" />
-  <img src="https://github.com/user-attachments/assets/0e0f0e30-c0c3-44d2-9f11-d3e30d8f5c86" width="80" alt="Discord Verified" />
-  <img src="https://github.com/user-attachments/assets/348167bb-472f-4fb2-9c27-32c359175e96" width="80" alt="Profile Complete" />
+  <h3>🚀 Foundation</h3>
+  <img src="https://github.com/user-attachments/assets/5203c528-b0d3-4c1d-9a52-62e9517aceb4" width="80" alt="Role Contributor" />
+  <img src="https://github.com/user-attachments/assets/0b67be3a-e9e7-4475-9fb7-b99b456f37f9" width="80" alt="Getting Started" />
+  <img src="https://github.com/user-attachments/assets/652b6fec-2395-4dce-a0ce-4c84d2f8a81c" width="80" alt="Discord Verified" />
+  <img src="https://github.com/user-attachments/assets/4a5dbeef-c92d-4689-925c-2f38de9def00" width="80" alt="Profile Complete" />
 
   <br><br>
   
