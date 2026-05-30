@@ -1,7 +1,7 @@
 <div align="center">
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=🚀+GSSoC+'26+Power+Contributor;🏆+Rising+Star;💻+Full-Stack+Developer" alt="Typing SVG" />
+ <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=GSSoC+Power+Contributor;Rising+Star;Full-Stack+Developer" alt="Typing SVG" />
   </a>
 
   <br><br>
@@ -38,6 +38,7 @@
   
   <br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=pawanakapkv&show_icons=true&theme=tokyonight&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=A9B1D6" alt="Pawan's GitHub Stats" />
-
+ <a href="https://github.com/pawanakapkv">
+    <img src="https://streak-stats.demolab.com/?user=pawanakapkv&theme=tokyonight&hide_border=true&stroke=00000000&fire=8B5CF6&ring=8B5CF6&currStreakLabel=8B5CF6" alt="Pawan's GitHub Stats" />
+  </a>
 </div>
